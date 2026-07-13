@@ -4,10 +4,3 @@ __pycache__/
 .idea/
 .vscode/
 
-# Ignore project files to keep them only locally
-crops.json
-seasons.json
-tips.json
-server.py
-tools.py
-requirements.txt

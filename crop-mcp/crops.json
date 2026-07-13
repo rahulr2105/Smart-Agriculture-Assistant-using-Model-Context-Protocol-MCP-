@@ -1,0 +1,18 @@
+{
+    "black soil": [
+        "Cotton",
+        "Groundnut"
+    ],
+    "red soil": [
+        "Tomato",
+        "Millet"
+    ],
+    "clay soil": [
+        "Rice",
+        "Sugarcane"
+    ],
+    "sandy soil": [
+        "Groundnut",
+        "Watermelon"
+    ]
+}
