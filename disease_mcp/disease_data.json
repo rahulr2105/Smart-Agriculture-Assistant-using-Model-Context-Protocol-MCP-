@@ -1,0 +1,21 @@
+{
+  "yellow leaves": {
+    "disease": "Nitrogen Deficiency",
+    "solution": "Apply Urea Fertilizer"
+  },
+
+  "black spots": {
+    "disease": "Fungal Disease",
+    "solution": "Use Fungicide Spray"
+  },
+
+  "dry leaves": {
+    "disease": "Water Deficiency",
+    "solution": "Increase Irrigation"
+  },
+
+  "brown edges": {
+    "disease": "Potassium Deficiency",
+    "solution": "Apply Potash Fertilizer"
+  }
+}
