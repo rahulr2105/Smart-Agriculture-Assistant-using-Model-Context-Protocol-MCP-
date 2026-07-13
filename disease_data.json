@@ -1,0 +1,48 @@
+{
+  "yellow leaves": {
+    "disease": "Nitrogen Deficiency",
+    "solution": "Apply Urea Fertilizer"
+  },
+
+  "black spots": {
+    "disease": "Fungal Disease",
+    "solution": "Use Fungicide Spray"
+  },
+
+  "dry leaves": {
+    "disease": "Water Deficiency",
+    "solution": "Increase Irrigation"
+  },
+
+  "brown edges": {
+    "disease": "Potassium Deficiency",
+    "solution": "Apply Potash Fertilizer"
+  },
+
+  "holes in leaves": {
+    "disease": "Caterpillar Infestation",
+    "solution": "Apply Bacillus Thuringiensis"
+  },
+  
+"stunted growth" :{
+    "disease": "Phosphorus Deficiency",
+    "solution": "Apply Bone Meal or Phosphate"
+  },
+
+  "curled leaves": {
+    "disease": "Aphid Damage",
+    "solution": "Spray Insecticidal Soap"
+  },
+
+  "wilting during day": {
+    "disease": "Vascular Wilt Disease",
+    "solution": "Remove Infected Plants and Improve Soil Drainage"
+  },
+
+  "interveinal yellowing": {
+    "disease": "Magnesium Deficiency",
+    "solution": "Apply Epsom Salt"
+  }
+  
+}
+
