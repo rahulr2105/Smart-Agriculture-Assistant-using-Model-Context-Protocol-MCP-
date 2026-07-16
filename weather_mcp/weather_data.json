@@ -1,0 +1,14 @@
+{
+  "MADURAI": {
+    "weather": "Sunny",
+    "temperature": "34° C"
+  },
+  "CHENNAI": {
+    "weather": "Rain",
+    "temperature": "29° C"
+  },
+  "COIMBATORE": {
+    "weather": "Cloudy",
+    "temperature": "27° C"
+  }
+}
