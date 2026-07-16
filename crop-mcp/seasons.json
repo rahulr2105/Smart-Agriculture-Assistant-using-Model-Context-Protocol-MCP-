@@ -1,0 +1,14 @@
+{
+    "summer": [
+        "Watermelon",
+        "Groundnut"
+    ],
+    "winter": [
+        "Wheat",
+        "Mustard"
+    ],
+    "rainy": [
+        "Rice",
+        "Maize"
+    ]
+}

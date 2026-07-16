@@ -1,0 +1,18 @@
+{
+  "tomato": {
+    "price": 45,
+    "trend": "Increasing"
+  },
+  "rice": {
+    "price": 28,
+    "trend": "Stable"
+  },
+  "cotton": {
+    "price": 82,
+    "trend": "Increasing"
+  },
+  "groundnut": {
+    "price": 65,
+    "trend": "Increasing"
+  }
+}

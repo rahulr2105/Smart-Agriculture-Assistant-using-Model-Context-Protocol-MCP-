@@ -1,0 +1,14 @@
+{
+  "small farmer": {
+    "scheme": "PM-KISAN",
+    "benefit": "₹6000 annual support"
+  },
+  "organic farmer": {
+    "scheme": "Organic Farming Subsidy",
+    "benefit": "50% subsidy on organic inputs"
+  },
+  "new farmer": {
+    "scheme": "Agriculture Startup Support",
+    "benefit": "Low interest agricultural loans"
+  }
+}
